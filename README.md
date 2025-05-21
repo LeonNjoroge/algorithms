@@ -178,7 +178,7 @@ A categorized overview of essential algorithms used in Data Structures and Algor
 
 - Mastering these algorithms will give you an edge in technical interviews and algorithmic problem solving.
 - Start with easier ones (e.g. sorting/searching), then move to advanced ones (e.g. DP, graph algorithms).
-- Practice on platforms like [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), [Codeforces](https://codeforces.com/), or [GeeksforGeeks](https://www.geeksforgeeks.org/).
+
 
 ---
 Happy coding! 🚀
